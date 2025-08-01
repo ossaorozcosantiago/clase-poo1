@@ -29,3 +29,13 @@ print(f'el cilindeje es {mimoto.cilindraje} de marca {mimoto.marca}')
 
 print("ahora los perros van a ladrar")
 perro.ladrar()
+
+
+
+
+
+
+
+
+
+
